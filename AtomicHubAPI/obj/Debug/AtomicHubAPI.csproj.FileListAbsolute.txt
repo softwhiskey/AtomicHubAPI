@@ -1,0 +1,13 @@
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\AtomicHubAPI.dll
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\AtomicHubAPI.pdb
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\xNet.dll
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\obj\Debug\AtomicHubAPI.csprojAssemblyReference.cache
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\obj\Debug\AtomicHubAPI.csproj.CoreCompileInputs.cache
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\obj\Debug\AtomicHubAPI.csproj.CopyComplete
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\obj\Debug\AtomicHubAPI.dll
+C:\Users\Brian Ortega\source\repos\AtomicHubAPI\AtomicHubAPI\obj\Debug\AtomicHubAPI.pdb
